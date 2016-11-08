@@ -1,0 +1,28 @@
+{
+  "name": "request-files",
+  "version": "0.0.1",
+  "description": "A simple way to request single and multiple files",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheus-vieira/request-files.git"
+  },
+  "keywords": [
+    "node",
+    "require",
+    "files"
+  ],
+  "author": "Matheus Costa Vieira <matheus.costa.vieira@gmail.com> (http://matheus-vieira.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matheus-vieira/request-files/issues"
+  },
+  "homepage": "https://github.com/matheus-vieira/request-files#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
