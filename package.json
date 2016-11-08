@@ -1,6 +1,6 @@
 {
   "name": "@mvieira/request-files",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple way to request single and multiple files",
   "main": "index.js",
   "scripts": {
