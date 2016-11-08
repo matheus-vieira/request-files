@@ -11,5 +11,4 @@ module.exports = (path, callback = x => x) =>
     sync(path)
       .map((p) => resolve(p))
       .map((p) => require(p))
-      .map(callback)
-};
+      .map(callback);
