@@ -1,3 +1,4 @@
+[![npm version](https://badge.fury.io/js/request-files.svg)](https://badge.fury.io/js/request-files)
 [![Build Status](https://travis-ci.org/matheus-vieira/request-files.svg?branch=master)](https://travis-ci.org/matheus-vieira/request-files)
 [![Coverage Status](https://coveralls.io/repos/github/matheus-vieira/request-files/badge.svg?branch=master)](https://coveralls.io/github/matheus-vieira/request-files?branch=master)
 
